@@ -1,2 +1,3 @@
-# Gitpod-Testing-Docker-Image
+# Gitpod Testing - Docker Image
+
 Build docker image for use in Gitpod
